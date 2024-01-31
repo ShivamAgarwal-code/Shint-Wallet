@@ -7,7 +7,7 @@ Shint Wallet is An Account Abstraction portal to use gas-free and off-chain paym
 
 ### Live Demo
 
-https://shint-wallet.vercel.app/
+https://shinka-wallet.vercel.app/
 
 
 ## Description
